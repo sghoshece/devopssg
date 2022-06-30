@@ -1,1 +1,1 @@
-print("I love to fuck Tanaya")
+print("I love to eat Biriyani")
